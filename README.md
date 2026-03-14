@@ -1,3 +1,6 @@
+ESP DJ Giroscopio
+
+
 # ESP DJ — Controlador MIDI com Giroscópio
 
 Sistema de controle MIDI wireless para DJ usando ESP32 + MPU6050.  
